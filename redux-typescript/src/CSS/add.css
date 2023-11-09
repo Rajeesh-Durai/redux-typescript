@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&family=Poppins:wght@200;600&family=Raleway:wght@200&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Manrope', sans-serif;
+}
+.add-header {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.name {
+  font-size: 21px;
+  font-family: 'Manrope', sans-serif;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.add-button {
+  font-size: 21px;
+  font-family: 'Manrope', sans-serif;
+  margin-top: 30px;
+}
+.button {
+  width: 120px;
+}
+.table {
+  margin-top: 150px;
+  width: 650px;
+  margin-left: 590px;
+}
